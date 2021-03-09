@@ -6,4 +6,6 @@ Discord: [@Defelo#2022](https://discord.com/invite/zcmkZVC) <br>
 Matrix: [@defelo:matrix.defelo.ml](https://matrix.to/#/@defelo:matrix.defelo.ml) <br>
 Reddit: [u/Defelo](https://www.reddit.com/user/Defelo) <br>
 Twitter: [@Defelo1337](https://twitter.com/Defelo1337) <br>
-YouTube: [Defelo](https://www.youtube.com/channel/UCmh1BRizi-rMh5uWtI3qbTw)
+YouTube: [Defelo](https://www.youtube.com/channel/UCmh1BRizi-rMh5uWtI3qbTw) <br>
+DockerHub: [defelo](https://hub.docker.com/u/defelo) <br>
+PyPi: [Defelo](https://pypi.org/user/Defelo)

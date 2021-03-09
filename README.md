@@ -1,5 +1,5 @@
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defelo&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&langs_count=2">
-<img align=left src="https://github-readme-stats.vercel.app/api?username=Defelo&count_private=true&include_all_commits=true&show_icons=true&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api?username=Defelo&count_private=true&include_all_commits=true&show_icons=true&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defelo&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&langs_count=2">
 
 |Discord|Matrix|Reddit|
 |:-:|:-:|:-:|

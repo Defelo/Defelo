@@ -8,4 +8,5 @@ Reddit: [u/Defelo](https://www.reddit.com/user/Defelo) <br>
 Twitter: [@Defelo1337](https://twitter.com/Defelo1337) <br>
 YouTube: [Defelo](https://www.youtube.com/channel/UCmh1BRizi-rMh5uWtI3qbTw) <br>
 DockerHub: [defelo](https://hub.docker.com/u/defelo) <br>
-PyPi: [Defelo](https://pypi.org/user/Defelo)
+PyPi: [Defelo](https://pypi.org/user/Defelo) <br>
+CodinGame: [Defelo](https://www.codingame.com/profile/de31b37ac9e373e1bc85169b2d5eb41d8470823)

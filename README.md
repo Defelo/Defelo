@@ -9,5 +9,3 @@
 |<img alt="PyPI" src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" />|<img alt="CodinGame" src="https://img.shields.io/badge/CodinGame-F2BB13?style=for-the-badge&logo=codingame&logoColor=black" />|<img alt="HackTheBox" src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" />|
 |[Defelo](https://pypi.org/user/Defelo)|[Defelo](https://www.codingame.com/profile/de31b37ac9e373e1bc85169b2d5eb41d8470823)|[Defelo](https://www.hackthebox.eu/home/users/profile/73965)|
 
-<a href='https://ko-fi.com/Defelo' target='_blank'><img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
-<a href="https://liberapay.com/Defelo/donate" target='_blank'><img alt="LiberaPay" src="https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black" /></a>

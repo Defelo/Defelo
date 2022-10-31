@@ -1,5 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Defelo&count_private=true&include_all_commits=true&show_icons=true&theme=gotham">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defelo&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&langs_count=2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Defelo&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&langs_count=3">
 
 |<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />|<img alt="Matrix" src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=matrix&logoColor=white" />|<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />|
 |:-:|:-:|:-:|
